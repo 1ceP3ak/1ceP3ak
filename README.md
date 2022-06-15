@@ -1,7 +1,7 @@
 ### Hi there 👋ak
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=1ceP3ak&show_icons=true&&theme=dark&locale=en" alt="1ceP3ak's github stats">
 
-### Hi there, I'm [1ceP3ak](https://1cepeak.cn) 🎉
+### Hi there, I'm [1cePeak](https://1cepeak.cn) 🎉
 
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
