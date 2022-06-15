@@ -1,4 +1,4 @@
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ceP3ak&show_icons=true&theme=tokyonight)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=1ceP3ak&show_icons=true&theme=tokyonight" alt="1cePeak's github stats">
 
 ### Hi there👋, I'm [1cePeak](https://1cepeak.cn) 🎉
 
