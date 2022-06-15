@@ -5,7 +5,7 @@
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
 - 🧑🏻‍💻 &nbsp;Programmer
-- 🌏 Interested in security and distributed system
+- 🌏 Interested in Security.
 - ⚡ Go, Python, C/C++, ...
  
 <div align='center'>
