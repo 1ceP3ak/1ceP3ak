@@ -4,7 +4,7 @@
 
 - 🇨🇳 Chinese
 - 👔 Pronouns: "He" | "His"
-- 🧑🏻‍💻 Programmer
+- 🧑🏻‍💻 Huashui Team ｜ Deliver Tea
 - 🌏 Interested in Security.
 - ⚡ Go, Python, C/C++, ...
  
